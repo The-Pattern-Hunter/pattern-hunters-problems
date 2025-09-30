@@ -1,4 +1,4 @@
-# The Pattern Hunters - Problems & Solutions
+# The Pattern Hunters:The Art of Scientific Thinking - Problems & Solutions
 
 **Companion repository for:**  
 *The Pattern Hunters: The Art of Scientific Thinking*  
