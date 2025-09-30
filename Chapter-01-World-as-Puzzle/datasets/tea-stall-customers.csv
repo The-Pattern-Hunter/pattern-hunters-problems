@@ -1,0 +1,8 @@
+Day,Week1,Week2,Average,DayNumber,DayType
+Monday,42,48,45.0,1,Weekday
+Tuesday,65,70,67.5,2,Weekday
+Wednesday,70,75,72.5,3,Weekday
+Thursday,68,72,70.0,4,Weekday
+Friday,87,91,89.0,5,Weekday
+Saturday,50,55,52.5,6,Weekend
+Sunday,35,40,37.5,7,Weekend
