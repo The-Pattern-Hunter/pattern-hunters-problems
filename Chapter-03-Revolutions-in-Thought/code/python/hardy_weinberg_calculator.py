@@ -327,3 +327,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+    if __name__ == "__main__":
+    import sys
+    
+    # Check if running in notebook
+    try:
+        get_ipython()
+        # In notebook - don't run main()
+        print("✓ Script loaded successfully!")
+        print("Use: calc = HardyWeinbergCalculator(p=0.6)")
+    except NameError:
+        # In command line - run main()
+        main()
