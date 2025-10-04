@@ -1,0 +1,23 @@
+island,species,beak_depth_mm,beak_length_mm,body_mass_g,year_collected
+Isabela,Ground Finch (Large),14.2,18.5,28.3,1835
+Isabela,Ground Finch (Large),15.1,19.2,29.1,1835
+Isabela,Ground Finch (Large),13.8,17.9,27.5,1975
+Isabela,Ground Finch (Medium),10.5,14.2,22.8,1835
+Isabela,Ground Finch (Medium),11.2,15.1,23.5,2005
+Isabela,Cactus Finch,9.8,16.7,19.2,1835
+Isabela,Cactus Finch,10.1,17.2,20.1,2020
+Isabela,Warbler Finch,7.5,11.3,15.8,1975
+Santa Cruz,Ground Finch (Large),13.9,18.1,27.9,1835
+Santa Cruz,Ground Finch (Large),14.8,19.5,28.8,2005
+Santa Cruz,Ground Finch (Medium),10.8,14.8,23.2,1835
+Santa Cruz,Ground Finch (Medium),11.5,15.5,24.1,2020
+Santa Cruz,Cactus Finch,9.5,16.2,18.9,1975
+Santa Cruz,Warbler Finch,7.8,11.8,16.2,2005
+San Cristobal,Ground Finch (Large),14.5,18.9,28.6,1835
+San Cristobal,Ground Finch (Medium),11.1,14.9,23.7,1975
+San Cristobal,Cactus Finch,9.9,16.9,19.5,2020
+San Cristobal,Warbler Finch,7.6,11.5,16.0,1835
+Floreana,Ground Finch (Large),14.1,18.3,28.1,2005
+Floreana,Ground Finch (Medium),10.9,14.6,23.4,1835
+Floreana,Cactus Finch,10.2,17.1,19.8,1975
+Floreana,Warbler Finch,7.9,12.1,16.5,2020
