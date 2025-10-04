@@ -1,0 +1,6 @@
+Time,Price,DemandFactor,QualityFactor
+7 AM,40,1.2,1.0
+10 AM,38,1.0,0.95
+1 PM,35,1.0,0.9
+4 PM,30,0.8,0.8
+7 PM,25,0.6,0.7
