@@ -4341,7 +4341,7 @@ You've transformed from an intuitive observer to a mathematical modeler. You can
 ---
 
 **Last Updated:** October 2025  
-**Part of:** The Pattern Hunters - A Mathematical Journey Through Modern Biology  
+**Part of:** The Pattern Hunters: The Art of Scientific Thinking
 **Author:** Dr. Alok Patel  
 **Total Problems:** 8 + 2 Coding Challenges  
 **Total Pages:** ~80 pages of detailed solutions
