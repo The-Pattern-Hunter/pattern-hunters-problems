@@ -9,7 +9,7 @@ The Pattern Hunters - Dr. Alok Patel
 import numpy as np
 import pandas as pd
 
-def load_data(filename='../../data/rajesh_two_weeks.csv'):
+def load_data(filename='../../dataset/rajesh_two_weeks.csv'):
     """Load Rajesh's tea stall data"""
     try:
         df = pd.read_csv(filename)
