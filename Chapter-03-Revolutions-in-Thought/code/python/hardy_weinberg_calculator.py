@@ -326,8 +326,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-    if __name__ == "__main__":
     import sys
     
     # Check if running in notebook
@@ -335,7 +333,10 @@ if __name__ == "__main__":
         get_ipython()
         # In notebook - don't run main()
         print("✓ Script loaded successfully!")
-        print("Use: calc = HardyWeinbergCalculator(p=0.6)")
+        print("\nExample usage:")
+        print("  calc = HardyWeinbergCalculator(p=0.6)")
+        print("  genotypes = calc.calculate_genotype_frequencies()")
+        print("  print(genotypes)")
     except NameError:
         # In command line - run main()
         main()
