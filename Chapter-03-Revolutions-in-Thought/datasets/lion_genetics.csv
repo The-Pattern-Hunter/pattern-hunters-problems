@@ -1,0 +1,6 @@
+population,locus,AA,Aa,aa,total,year,observed_heterozygosity,expected_heterozygosity,inbreeding_coefficient
+Gir Forest,MHC-DRB1,180,380,115,675,2024,0.563,0.489,0.151
+Gir Forest,MHC-DQA1,145,410,120,675,2024,0.607,0.498,0.182
+Gir Forest,FCA124,195,360,120,675,2024,0.533,0.487,0.095
+Gir Forest,FCA126,160,395,120,675,2024,0.585,0.495,0.181
+Gir Forest,FCA149,175,385,115,675,2024,0.570,0.493,0.156
