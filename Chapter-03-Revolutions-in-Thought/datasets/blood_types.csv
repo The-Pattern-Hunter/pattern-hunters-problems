@@ -1,0 +1,21 @@
+region,city,blood_type,count,sample_size
+North India,Delhi,A,220,1000
+North India,Delhi,B,310,1000
+North India,Delhi,AB,85,1000
+North India,Delhi,O,385,1000
+South India,Chennai,A,195,1000
+South India,Chennai,B,280,1000
+South India,Chennai,AB,90,1000
+South India,Chennai,O,435,1000
+East India,Kolkata,A,210,1000
+East India,Kolkata,B,330,1000
+East India,Kolkata,AB,95,1000
+East India,Kolkata,O,365,1000
+West India,Mumbai,A,230,1000
+West India,Mumbai,B,295,1000
+West India,Mumbai,AB,80,1000
+West India,Mumbai,O,395,1000
+Central India,Bhopal,A,205,1000
+Central India,Bhopal,B,315,1000
+Central India,Bhopal,AB,88,1000
+Central India,Bhopal,O,392,1000
