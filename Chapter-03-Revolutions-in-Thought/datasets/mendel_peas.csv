@@ -1,0 +1,10 @@
+trait,parent_cross,generation,phenotype,count
+Seed Shape,RR × rr,F1,Round,253
+Seed Shape,Rr × Rr,F2,Round,5474
+Seed Shape,Rr × Rr,F2,Wrinkled,1850
+Seed Color,YY × yy,F1,Yellow,258
+Seed Color,Yy × Yy,F2,Yellow,6022
+Seed Color,Yy × Yy,F2,Green,2001
+Plant Height,TT × tt,F1,Tall,296
+Plant Height,Tt × Tt,F2,Tall,787
+Plant Height,Tt × Tt,F2,Short,277
